@@ -1,13 +1,15 @@
-# CoStellation
+# Costellation
 ## Summary
 
 ![Costellation_Affiche-1](https://github.com/marionpobelle/Co-stellation/assets/112869026/670b8f0f-8652-4fb6-9afc-a01c4cca6b4c)
 
 Take a little break from your hectic day to gaze at the stars!
 
-CoStellation is the result of a 3 and a half day workshop with the objective to create an interactive experience with basic inputs (keyboard, mouse, joystick) but outputs would not be limited to a computer screen.
+Costellation is the result of a 3 and a half day workshop with the objective to create an interactive experience with basic inputs (keyboard, mouse, joystick) but outputs would not be limited to a computer screen.
 
-CoStellation was presented during the 2024 edition of the “Les Mycéliades” festival held at the Alpha media-library in Angoulême.
+Costellation was presented during the 2024 edition of the “Les Mycéliades” festival held at the Alpha media-library in Angoulême.
+
+Find the game on Itch.io: [Costellation](https://zizelexe.itch.io/co-stellation).
 
 ![MYCELIADES_400x800](https://github.com/user-attachments/assets/d7b545dd-f58c-4e56-ab5c-602dad0e9008)
 
